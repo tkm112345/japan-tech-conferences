@@ -1,5 +1,22 @@
 [
   {
+    "name": "SRE Kaigi 2025",
+    "url": "https://2025.srekaigi.net/",
+    "startDate": "2025-01-26",
+    "endDate": "2025-01-26",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "format": "onsite",
+    "topics": ["sre", "observability", "devops"],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "srekaigi",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/playlist?list=PLeCFFfGMumxe9B_8yPdl7awqh2E6JGozK",
+    "language": "ja"
+  },
+  {
     "name": "Platform Engineering Kaigi 2025",
     "url": "https://www.cnia.io/pek2025/",
     "startDate": "2025-09-18",
