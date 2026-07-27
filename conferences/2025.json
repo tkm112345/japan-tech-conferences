@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Platform Engineering Kaigi 2025",
+    "url": "https://www.cnia.io/pek2025/",
+    "startDate": "2025-09-18",
+    "endDate": "2025-09-18",
+    "city": null,
+    "prefecture": null,
+    "country": "Japan",
+    "format": "hybrid",
+    "topics": ["platform-engineering", "cloud", "kubernetes"],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": "https://platformengineering.connpass.com/event/361429/",
+    "archiveUrl": "https://www.cnia.io/pek2025/",
+    "language": "ja"
+  }
+]

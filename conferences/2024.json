@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Platform Engineering Kaigi 2024",
+    "url": "https://www.cnia.io/pek2024/",
+    "startDate": "2024-07-09",
+    "endDate": "2024-07-09",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "format": "hybrid",
+    "topics": ["platform-engineering", "sre", "devops"],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": "https://www.cnia.io/pek2024/sessions/",
+    "language": "ja"
+  }
+]

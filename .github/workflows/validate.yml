@@ -1,0 +1,29 @@
+name: validate
+
+# pull_request（pull_request_target ではない）を使うことで、
+# フォークからの信頼できないコードにリポジトリのシークレットや書き込み権限を渡さない。
+on:
+  pull_request:
+    paths:
+      - "conferences/**"
+      - "schema.json"
+      - "scripts/**"
+      - "package.json"
+      - ".github/workflows/validate.yml"
+  push:
+    branches: [main]
+
+# 最小権限。読み取りのみ。
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run validate

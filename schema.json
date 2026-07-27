@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/tkm112345/japan-tech-conferences/schema.json",
+  "title": "Japan tech conference list",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["name", "url", "startDate", "endDate", "country", "format", "topics"],
+    "properties": {
+      "name": {
+        "type": "string",
+        "minLength": 1,
+        "description": "カンファレンス名（年を含める）。例: PyCon JP 2026"
+      },
+      "url": {
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://",
+        "description": "公式サイト。セキュリティのため https のみ許可"
+      },
+      "startDate": { "type": "string", "format": "date", "description": "YYYY-MM-DD" },
+      "endDate": { "type": "string", "format": "date", "description": "単日開催なら startDate と同じ" },
+      "city": { "type": ["string", "null"], "description": "開催都市（日本語）。オンライン専用や未定は null" },
+      "prefecture": { "type": ["string", "null"], "description": "都道府県（日本語）。未定は null" },
+      "country": { "type": "string", "enum": ["Japan"] },
+      "format": { "type": "string", "enum": ["onsite", "online", "hybrid"] },
+      "topics": {
+        "type": "array",
+        "minItems": 1,
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "enum": [
+            "cloud", "kubernetes", "platform-engineering", "sre", "devops",
+            "security", "networking", "observability", "database", "infrastructure",
+            "ai", "ml", "data", "web", "frontend", "backend", "mobile",
+            "python", "ruby", "go", "rust", "java", "javascript", "typescript",
+            "php", "dotnet", "scala", "elixir",
+            "testing", "agile", "design", "ux", "accessibility", "iot",
+            "opensource", "general"
+          ]
+        }
+      },
+      "cfpUrl": { "type": ["string", "null"], "format": "uri", "pattern": "^https://", "description": "登壇募集(CFP)ページ" },
+      "cfpEndDate": { "type": ["string", "null"], "format": "date" },
+      "twitter": { "type": ["string", "null"], "pattern": "^[A-Za-z0-9_]{1,15}$", "description": "@ を除いたハンドル名のみ" },
+      "connpass": { "type": ["string", "null"], "format": "uri", "pattern": "^https://" },
+      "archiveUrl": { "type": ["string", "null"], "format": "uri", "pattern": "^https://", "description": "終了後の発表資料・動画・アーカイブページ" },
+      "language": { "type": "string", "enum": ["ja", "en"], "default": "ja" }
+    }
+  }
+}
