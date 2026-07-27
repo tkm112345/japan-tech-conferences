@@ -33,6 +33,22 @@
     "language": "ja"
   },
   {
+    "name": "技術的負債に向き合うConference 2026",
+    "url": "https://technical-debt-con.findy-tools.io/2026",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-17",
+    "city": null,
+    "prefecture": null,
+    "country": "Japan",
+    "format": "online",
+    "topics": ["general", "agile"],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "findy_tools",
+    "connpass": "https://findy-tools.connpass.com/event/399770/",
+    "language": "ja"
+  },
+  {
     "name": "Platform Engineering Kaigi 2026",
     "url": "https://www.cnia.io/pek2026/",
     "startDate": "2026-09-26",
