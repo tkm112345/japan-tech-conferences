@@ -1,5 +1,22 @@
 [
   {
+    "name": "SRE Kaigi 2026",
+    "url": "https://2026.srekaigi.net/",
+    "startDate": "2026-01-31",
+    "endDate": "2026-01-31",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "format": "hybrid",
+    "topics": ["sre", "observability", "devops"],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "srekaigi",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/playlist?list=PLeCFFfGMumxdte8Z0T8YcNNKvhtj1BUpj",
+    "language": "ja"
+  },
+  {
     "name": "AWS Summit Japan 2026",
     "url": "https://aws.amazon.com/jp/events/summits/japan/",
     "startDate": "2026-06-25",
@@ -13,7 +30,7 @@
     "cfpEndDate": null,
     "twitter": null,
     "connpass": null,
-    "archiveUrl": null,
+    "archiveUrl": "https://pages.awscloud.com/AWS-Summit-Japan-2026-Session-Materials-Download.html",
     "language": "ja"
   },
   {
