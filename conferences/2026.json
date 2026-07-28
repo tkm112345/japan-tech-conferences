@@ -651,25 +651,6 @@
     ]
   },
   {
-    "cfpUrl": null,
-    "cfpEndDate": null,
-    "twitter": "a11y_chiba",
-    "connpass": "https://a11y-chiba.connpass.com/",
-    "archiveUrl": null,
-    "city": "千葉市",
-    "prefecture": "千葉県",
-    "country": "Japan",
-    "language": "ja",
-    "name": "アクセシビリティカンファレンスCHIBA2026",
-    "url": "https://a11y-chiba.com/2026/",
-    "startDate": "2026-09-05",
-    "endDate": "2026-09-05",
-    "format": "hybrid",
-    "topics": [
-      "accessibility"
-    ]
-  },
-  {
     "cfpUrl": "https://forms.gle/oxttyuBxbRAREGtx5",
     "cfpEndDate": null,
     "twitter": "cloudopsdays",
