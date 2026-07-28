@@ -40,11 +40,12 @@ confs.tech は欧米のカンファレンスが中心で、日本国内のイベ
 
 ### トピック一覧
 
+現在データで使われているトピックは以下です（有効な値の一覧は [`schema.json`](schema.json) が正）。
+
 ```
 cloud, kubernetes, platform-engineering, sre, devops, security, networking,
-observability, database, infrastructure, ai, ml, data, web, frontend, backend,
-mobile, python, ruby, go, rust, java, javascript, typescript, php, dotnet,
-scala, elixir, testing, agile, design, ux, accessibility, iot, opensource, general
+observability, infrastructure, ai, backend, python, javascript, dotnet,
+testing, agile, design, opensource, general
 ```
 
 新しいトピックが必要なら、Issue で提案してください（`schema.json` に追加します）。
