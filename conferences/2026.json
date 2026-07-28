@@ -736,7 +736,7 @@
     "city": null,
     "prefecture": null,
     "country": "Japan",
-    "format": "onsite",
+    "format": "hybrid",
     "topics": [
       "platform-engineering",
       "cloud",
