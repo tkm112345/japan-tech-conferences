@@ -8,7 +8,11 @@
     "prefecture": "東京都",
     "country": "Japan",
     "format": "onsite",
-    "topics": ["sre", "observability", "devops"],
+    "topics": [
+      "sre",
+      "observability",
+      "devops"
+    ],
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": "srekaigi",
@@ -25,12 +29,36 @@
     "prefecture": null,
     "country": "Japan",
     "format": "hybrid",
-    "topics": ["platform-engineering", "cloud", "kubernetes"],
+    "topics": [
+      "platform-engineering",
+      "cloud",
+      "kubernetes"
+    ],
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": null,
     "connpass": "https://platformengineering.connpass.com/event/361429/",
     "archiveUrl": "https://www.cnia.io/pek2025/",
+    "language": "ja"
+  },
+  {
+    "name": "アーキテクチャConference 2025",
+    "url": "https://architecture-con.findy-tools.io/",
+    "startDate": "2025-11-20",
+    "endDate": "2025-11-21",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "format": "hybrid",
+    "topics": [
+      "design",
+      "general"
+    ],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "findy_tools",
+    "connpass": "https://findy.connpass.com/event/366177/",
+    "archiveUrl": "https://conference.findy-code.io/conferences/architecture-con-2025/7/archives?utm_content=archive-kv",
     "language": "ja"
   }
 ]

@@ -768,26 +768,6 @@
     ]
   },
   {
-    "cfpUrl": "https://www.k-of.jp/2026/mypage",
-    "cfpEndDate": null,
-    "twitter": "KansaiOpenForum",
-    "connpass": null,
-    "archiveUrl": "https://www.youtube.com/KansaiOpenForum",
-    "city": "大阪市",
-    "prefecture": "大阪府",
-    "country": "Japan",
-    "language": "ja",
-    "name": "関西オープンフォーラム2026（KOF2026）",
-    "url": "https://www.k-of.jp/2026/",
-    "startDate": "2026-11-13",
-    "endDate": "2026-11-14",
-    "format": "onsite",
-    "topics": [
-      "opensource",
-      "general"
-    ]
-  },
-  {
     "name": "CloudNative Days Winter 2026",
     "url": "https://cloudnativedays.jp/",
     "startDate": "2026-11-18",
@@ -807,25 +787,5 @@
     "twitter": "cloudnativedays",
     "connpass": "https://cloudnativedays.connpass.com/",
     "language": "ja"
-  },
-  {
-    "cfpUrl": null,
-    "cfpEndDate": null,
-    "twitter": "findy_tools",
-    "connpass": null,
-    "archiveUrl": "https://architecture-con.findy-tools.io/2025",
-    "city": "東京",
-    "prefecture": "東京都",
-    "country": "Japan",
-    "language": "ja",
-    "name": "アーキテクチャConference 2026",
-    "url": "https://architecture-con.findy-tools.io/",
-    "startDate": "2026-11-26",
-    "endDate": "2026-11-27",
-    "format": "hybrid",
-    "topics": [
-      "design",
-      "general"
-    ]
   }
 ]
