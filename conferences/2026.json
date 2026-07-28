@@ -807,25 +807,5 @@
     "twitter": "cloudnativedays",
     "connpass": "https://cloudnativedays.connpass.com/",
     "language": "ja"
-  },
-  {
-    "cfpUrl": null,
-    "cfpEndDate": null,
-    "twitter": "findy_tools",
-    "connpass": null,
-    "archiveUrl": "https://architecture-con.findy-tools.io/2025",
-    "city": "東京",
-    "prefecture": "東京都",
-    "country": "Japan",
-    "language": "ja",
-    "name": "アーキテクチャConference 2026",
-    "url": "https://architecture-con.findy-tools.io/",
-    "startDate": "2026-11-26",
-    "endDate": "2026-11-27",
-    "format": "hybrid",
-    "topics": [
-      "design",
-      "general"
-    ]
   }
 ]
