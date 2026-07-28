@@ -1,5 +1,65 @@
 [
   {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "ScrumTokyo",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/channel/UCUcKR5NviFsfUgbVSEGncqg",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Regional Scrum Gathering Tokyo 2026",
+    "url": "https://2026.scrumgatheringtokyo.org/",
+    "startDate": "2026-01-07",
+    "endDate": "2026-01-09",
+    "format": "hybrid",
+    "topics": [
+      "agile"
+    ]
+  },
+  {
+    "cfpUrl": "https://fortee.jp/burikaigi-2026",
+    "cfpEndDate": "2025-10-28",
+    "twitter": "burikaigi",
+    "connpass": "https://toyama-eng.connpass.com/event/372229/",
+    "archiveUrl": null,
+    "city": "富山市",
+    "prefecture": "富山県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "BuriKaigi 2026",
+    "url": "https://burikaigi.dev/",
+    "startDate": "2026-01-09",
+    "endDate": "2026-01-10",
+    "format": "onsite",
+    "topics": [
+      "general",
+      "dotnet",
+      "javascript"
+    ]
+  },
+  {
+    "cfpUrl": "https://fortee.jp/cqrsconf-2026",
+    "cfpEndDate": "2025-10-16",
+    "twitter": "cqrs_es_jp",
+    "connpass": "https://cqrs-es-con.connpass.com/event/376478/",
+    "archiveUrl": "https://cqrs-es-con.connpass.com/event/333271/presentation/",
+    "city": "福岡市",
+    "prefecture": "福岡県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "CQRS+ESカンファレンス2026",
+    "url": "https://cqrs-es-con.jp/",
+    "startDate": "2026-01-10",
+    "endDate": "2026-01-10",
+    "format": "onsite",
+    "topics": [
+      "backend",
+      "general"
+    ]
+  },
+  {
     "name": "SRE Kaigi 2026",
     "url": "https://2026.srekaigi.net/",
     "startDate": "2026-01-31",
@@ -8,13 +68,355 @@
     "prefecture": "東京都",
     "country": "Japan",
     "format": "hybrid",
-    "topics": ["sre", "observability", "devops"],
+    "topics": [
+      "sre",
+      "observability",
+      "devops"
+    ],
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": "srekaigi",
     "connpass": null,
     "archiveUrl": "https://www.youtube.com/playlist?list=PLeCFFfGMumxdte8Z0T8YcNNKvhtj1BUpj",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/369716/",
+    "archiveUrl": "https://www.youtube.com/c/OSPNjp",
+    "city": "大阪市",
+    "prefecture": "大阪府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2026 Osaka",
+    "url": "https://event.ospn.jp/osc2026-osaka/",
+    "startDate": "2026-01-31",
+    "endDate": "2026-01-31",
+    "format": "onsite",
+    "topics": [
+      "opensource",
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": "https://forms.gle/1N3RTqvkPmYvegwt7",
+    "cfpEndDate": "2025-10-17",
+    "twitter": "janogmeeting",
+    "connpass": "https://janog.connpass.com/",
+    "archiveUrl": "https://www.youtube.com/@janog-meeting",
+    "city": "大阪市",
+    "prefecture": "大阪府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "JANOG57 Meeting",
+    "url": "https://www.janog.gr.jp/meeting/janog57/",
+    "startDate": "2026-02-11",
+    "endDate": "2026-02-13",
+    "format": "onsite",
+    "topics": [
+      "networking"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/379643/",
+    "archiveUrl": "https://www.youtube.com/c/OSPNjp",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2026 Tokyo/Spring",
+    "url": "https://event.ospn.jp/osc2026-spring/",
+    "startDate": "2026-02-27",
+    "endDate": "2026-02-28",
+    "format": "onsite",
+    "topics": [
+      "opensource",
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "emconf_jp",
+    "connpass": null,
+    "archiveUrl": "https://2025.emconf.jp/posts/keynote-movies/",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "EMConf JP 2026",
+    "url": "https://2026.emconf.jp/",
+    "startDate": "2026-03-04",
+    "endDate": "2026-03-04",
+    "format": "onsite",
+    "topics": [
+      "general",
+      "agile"
+    ]
+  },
+  {
+    "cfpUrl": "https://fortee.jp/jawsdays-2026/",
+    "cfpEndDate": null,
+    "twitter": "jawsdays",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/playlist?list=PLYMeJaIBczfpy9bf3dNH7DYwwFH2kwjwz",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "JAWS DAYS 2026",
+    "url": "https://jawsdays2026.jaws-ug.jp/",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-07",
+    "format": "onsite",
+    "topics": [
+      "cloud",
+      "infrastructure"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "ObservabilityCON on the Road 2026 Tokyo",
+    "url": "https://grafana.com/events/observabilitycon-on-the-road/2026/tokyo/",
+    "startDate": "2026-03-17",
+    "endDate": "2026-03-17",
+    "format": "onsite",
+    "topics": [
+      "observability",
+      "cloud"
+    ]
+  },
+  {
+    "cfpUrl": "https://jasst.jp/tokyo/26-proposals/",
+    "cfpEndDate": "2025-09-30",
+    "twitter": "jassttokyo",
+    "connpass": "https://jassttokyo.connpass.com/event/386177/",
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "JaSST'26 Tokyo",
+    "url": "https://jasst.jp/tokyo/26-about/",
+    "startDate": "2026-03-20",
+    "endDate": "2026-03-20",
+    "format": "hybrid",
+    "topics": [
+      "testing"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": "2026-03-01",
+    "twitter": "DevOpsDaysTYO",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/playlist?list=PL-bvtmk0kdw4V1cCQenaevEp0iMZtn5Br",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "DevOpsDays Tokyo 2026",
+    "url": "https://www.devopsdaystokyo.org/",
+    "startDate": "2026-04-14",
+    "endDate": "2026-04-16",
+    "format": "hybrid",
+    "topics": [
+      "devops",
+      "sre",
+      "testing",
+      "security"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/382104/",
+    "archiveUrl": null,
+    "city": "高松市",
+    "prefecture": "香川県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2026 Kagawa",
+    "url": "https://event.ospn.jp/osc2026-kagawa/",
+    "startDate": "2026-04-18",
+    "endDate": "2026-04-18",
+    "format": "onsite",
+    "topics": [
+      "opensource",
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": "https://sansan.connpass.com/event/387148/",
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "TechLead Conference 2026",
+    "url": "https://eight-event.8card.net/techlead-conference/",
+    "startDate": "2026-04-22",
+    "endDate": "2026-04-22",
+    "format": "onsite",
+    "topics": [
+      "general",
+      "agile"
+    ]
+  },
+  {
+    "cfpUrl": "https://confengine.com/conferences/scrum-fest-niigata-2026",
+    "cfpEndDate": null,
+    "twitter": "scrumniigata",
+    "connpass": "https://scrumniigata.connpass.com/",
+    "archiveUrl": null,
+    "city": "新潟市",
+    "prefecture": "新潟県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "スクラムフェス新潟2026",
+    "url": "https://www.scrumfestniigata.org/",
+    "startDate": "2026-05-08",
+    "endDate": "2026-05-09",
+    "format": "hybrid",
+    "topics": [
+      "agile"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "cloudnativedays",
+    "connpass": "https://cloudnativedays.connpass.com/",
+    "archiveUrl": "https://www.youtube.com/channel/UCMBw1Z3fmhe-2l-iq2p4rNw",
+    "city": "名古屋市",
+    "prefecture": "愛知県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "クラウドネイティブ会議 2026",
+    "url": "https://kaigi.cloudnativedays.jp/",
+    "startDate": "2026-05-14",
+    "endDate": "2026-05-15",
+    "format": "hybrid",
+    "topics": [
+      "cloud",
+      "kubernetes",
+      "platform-engineering",
+      "sre"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/382109/",
+    "archiveUrl": "https://www.youtube.com/c/OSPNjp",
+    "city": "名古屋市",
+    "prefecture": "愛知県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2026 Nagoya",
+    "url": "https://event.ospn.jp/osc2026-nagoya/",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-23",
+    "format": "onsite",
+    "topics": [
+      "opensource",
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "Qiita",
+    "connpass": "https://increments.connpass.com/event/389790/",
+    "archiveUrl": "https://www.youtube.com/@qiita5366",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Qiita Conference 2026",
+    "url": "https://qiita.com/official-campaigns/conference/2026",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-29",
+    "format": "hybrid",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "仙台市",
+    "prefecture": "宮城県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "JaSST'26 Tohoku",
+    "url": "https://jasst.jp/tohoku/26-about/",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "format": "onsite",
+    "topics": [
+      "testing"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/387446/",
+    "archiveUrl": "https://www.youtube.com/c/OSPNjp",
+    "city": "仙台市",
+    "prefecture": "宮城県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2026 Sendai",
+    "url": "https://event.ospn.jp/osc2026-sendai/",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-06",
+    "format": "onsite",
+    "topics": [
+      "opensource",
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": "https://confengine.com/conferences/scrum-fest-kanazawa-2026",
+    "cfpEndDate": "2026-03-31",
+    "twitter": "ScrumKanazawa",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/playlist?list=PL-bvtmk0kdw59hy21i-Ou8L6ayko6k2Td",
+    "city": "金沢市",
+    "prefecture": "石川県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "スクラムフェス金沢2026",
+    "url": "https://www.scrumfestkanazawa.org/",
+    "startDate": "2026-06-19",
+    "endDate": "2026-06-20",
+    "format": "hybrid",
+    "topics": [
+      "agile"
+    ]
   },
   {
     "name": "AWS Summit Japan 2026",
@@ -25,13 +427,191 @@
     "prefecture": "千葉県",
     "country": "Japan",
     "format": "onsite",
-    "topics": ["cloud", "infrastructure", "ai"],
+    "topics": [
+      "cloud",
+      "infrastructure",
+      "ai"
+    ],
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": null,
     "connpass": null,
     "archiveUrl": "https://pages.awscloud.com/AWS-Summit-Japan-2026-Session-Materials-Download.html",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "プロダクトヒストリーカンファレンス2026",
+    "url": "https://lp-prohis.youtrust.jp/",
+    "startDate": "2026-06-26",
+    "endDate": "2026-06-27",
+    "format": "hybrid",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "kinoko_conf",
+    "connpass": "https://kinoko.connpass.com/",
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "エンジニアがこの先生きのこるためのカンファレンス2026",
+    "url": "https://kinoko-conf.dev/",
+    "startDate": "2026-06-28",
+    "endDate": "2026-06-28",
+    "format": "onsite",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "Tesutaro_JaSST",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "大阪市",
+    "prefecture": "大阪府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "JaSST'26 Kansai",
+    "url": "https://jasst.jp/kansai/26-about/",
+    "startDate": "2026-07-03",
+    "endDate": "2026-07-03",
+    "format": "onsite",
+    "topics": [
+      "testing"
+    ]
+  },
+  {
+    "cfpUrl": "https://fortee.jp/sre-next-2026",
+    "cfpEndDate": "2026-03-25",
+    "twitter": "srenext",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/@srenext6778",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "SRE NEXT 2026",
+    "url": "https://sre-next.dev/2026/",
+    "startDate": "2026-07-10",
+    "endDate": "2026-07-11",
+    "format": "hybrid",
+    "topics": [
+      "sre",
+      "observability"
+    ]
+  },
+  {
+    "cfpUrl": "https://www.janog.gr.jp/meeting/janog58/program-app/",
+    "cfpEndDate": "2026-04-24",
+    "twitter": "janogmeeting",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "松山市",
+    "prefecture": "愛媛県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "JANOG58 Meeting",
+    "url": "https://www.janog.gr.jp/meeting/janog58/",
+    "startDate": "2026-07-15",
+    "endDate": "2026-07-17",
+    "format": "onsite",
+    "topics": [
+      "networking"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "dpe_findy",
+    "connpass": "https://findy.connpass.com/",
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "AI DevEx Conference 2026",
+    "url": "https://dev-productivity-con.findy-code.io/aidevex2026",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-23",
+    "format": "hybrid",
+    "topics": [
+      "ai",
+      "devops"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": "https://www.jasst.jp/symposium/jasst24hokkaido/report.html",
+    "city": "札幌市",
+    "prefecture": "北海道",
+    "country": "Japan",
+    "language": "ja",
+    "name": "JaSST'26 Hokkaido",
+    "url": "https://jasst.jp/hokkaido/26-about/",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-24",
+    "format": "hybrid",
+    "topics": [
+      "testing"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "KubeCon_",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/c/cloudnativefdn",
+    "city": "横浜市",
+    "prefecture": "神奈川県",
+    "country": "Japan",
+    "language": "en",
+    "name": "KubeCon + CloudNativeCon Japan 2026",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-30",
+    "format": "onsite",
+    "topics": [
+      "cloud",
+      "kubernetes"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "scrumosaka",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "大阪市",
+    "prefecture": "大阪府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Scrum Fest Osaka 2026",
+    "url": "https://www.scrumosaka.org/",
+    "startDate": "2026-07-31",
+    "endDate": "2026-08-01",
+    "format": "hybrid",
+    "topics": [
+      "agile"
+    ]
   },
   {
     "name": "PyCon JP 2026",
@@ -42,12 +622,73 @@
     "prefecture": "広島県",
     "country": "Japan",
     "format": "onsite",
-    "topics": ["python"],
+    "topics": [
+      "python"
+    ],
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": "pyconjapan",
     "connpass": "https://pyconjp.connpass.com/event/391006/",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": "2026-06-15",
+    "twitter": "PdEConf",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Product Engineering Conference 2026",
+    "url": "https://product-engineering.jp/2026/",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "format": "onsite",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "a11y_chiba",
+    "connpass": "https://a11y-chiba.connpass.com/",
+    "archiveUrl": null,
+    "city": "千葉市",
+    "prefecture": "千葉県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "アクセシビリティカンファレンスCHIBA2026",
+    "url": "https://a11y-chiba.com/2026/",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "format": "hybrid",
+    "topics": [
+      "accessibility"
+    ]
+  },
+  {
+    "cfpUrl": "https://forms.gle/oxttyuBxbRAREGtx5",
+    "cfpEndDate": null,
+    "twitter": "cloudopsdays",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/@cloudoperatordaystokyo4570/playlists",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Cloud Operator Days Tokyo 2026",
+    "url": "https://cloudopsdays.com/",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-11",
+    "format": "onsite",
+    "topics": [
+      "cloud",
+      "infrastructure",
+      "sre"
+    ]
   },
   {
     "name": "技術的負債に向き合うConference 2026",
@@ -58,12 +699,34 @@
     "prefecture": null,
     "country": "Japan",
     "format": "online",
-    "topics": ["general", "agile"],
+    "topics": [
+      "general",
+      "agile"
+    ],
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": "findy_tools",
     "connpass": "https://findy-tools.connpass.com/event/399770/",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "新潟市",
+    "prefecture": "新潟県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "JaSST'26 Niigata",
+    "url": "https://jasst.jp/niigata/26-about/",
+    "startDate": "2026-09-18",
+    "endDate": "2026-09-18",
+    "format": "hybrid",
+    "topics": [
+      "testing"
+    ]
   },
   {
     "name": "Platform Engineering Kaigi 2026",
@@ -74,12 +737,55 @@
     "prefecture": null,
     "country": "Japan",
     "format": "onsite",
-    "topics": ["platform-engineering", "cloud", "kubernetes"],
+    "topics": [
+      "platform-engineering",
+      "cloud",
+      "kubernetes"
+    ],
     "cfpUrl": "https://cityhall.core.paas.jp/pek2026",
     "cfpEndDate": null,
     "twitter": null,
     "connpass": "https://platformengineering.connpass.com/",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "tokyotestfest",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "en",
+    "name": "Tokyo Test Fest 2026",
+    "url": "https://tokyotestfest.com/",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-13",
+    "format": "onsite",
+    "topics": [
+      "testing"
+    ]
+  },
+  {
+    "cfpUrl": "https://www.k-of.jp/2026/mypage",
+    "cfpEndDate": null,
+    "twitter": "KansaiOpenForum",
+    "connpass": null,
+    "archiveUrl": "https://www.youtube.com/KansaiOpenForum",
+    "city": "大阪市",
+    "prefecture": "大阪府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "関西オープンフォーラム2026（KOF2026）",
+    "url": "https://www.k-of.jp/2026/",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-14",
+    "format": "onsite",
+    "topics": [
+      "opensource",
+      "general"
+    ]
   },
   {
     "name": "CloudNative Days Winter 2026",
@@ -90,11 +796,36 @@
     "prefecture": "東京都",
     "country": "Japan",
     "format": "hybrid",
-    "topics": ["cloud", "kubernetes", "sre", "observability"],
+    "topics": [
+      "cloud",
+      "kubernetes",
+      "sre",
+      "observability"
+    ],
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": "cloudnativedays",
     "connpass": "https://cloudnativedays.connpass.com/",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "findy_tools",
+    "connpass": null,
+    "archiveUrl": "https://architecture-con.findy-tools.io/2025",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "アーキテクチャConference 2026",
+    "url": "https://architecture-con.findy-tools.io/",
+    "startDate": "2026-11-26",
+    "endDate": "2026-11-27",
+    "format": "hybrid",
+    "topics": [
+      "design",
+      "general"
+    ]
   }
 ]
