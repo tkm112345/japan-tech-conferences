@@ -15,5 +15,26 @@
     "connpass": null,
     "archiveUrl": "https://www.cnia.io/pek2024/sessions/",
     "language": "ja"
+  },
+  {
+    "name": "Google Cloud Next Tokyo '24",
+    "url": "https://cloudonair.withgoogle.com/events/next-tokyo-24",
+    "startDate": "2024-08-01",
+    "endDate": "2024-08-02",
+    "city": "横浜市",
+    "prefecture": "神奈川県",
+    "country": "Japan",
+    "format": "onsite",
+    "topics": [
+      "cloud",
+      "ai",
+      "infrastructure"
+    ],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": "https://cloudonair.withgoogle.com/events/next-tokyo-24",
+    "language": "ja"
   }
 ]

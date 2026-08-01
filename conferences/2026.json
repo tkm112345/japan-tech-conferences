@@ -595,6 +595,27 @@
     ]
   },
   {
+    "name": "Google Cloud Next Tokyo 26",
+    "url": "https://www.googlecloudevents.com/next-tokyo/",
+    "startDate": "2026-07-30",
+    "endDate": "2026-07-31",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "format": "onsite",
+    "topics": [
+      "cloud",
+      "ai",
+      "infrastructure"
+    ],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "language": "ja"
+  },
+  {
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": "scrumosaka",
