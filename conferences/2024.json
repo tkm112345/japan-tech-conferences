@@ -1,5 +1,100 @@
 [
   {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "大阪市",
+    "prefecture": "大阪府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Osaka",
+    "url": "https://event.ospn.jp/osc2024-osaka/",
+    "startDate": "2024-01-27",
+    "endDate": "2024-01-27",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": null,
+    "prefecture": null,
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Online/Spring",
+    "url": "https://event.ospn.jp/osc2024-online-spring/",
+    "startDate": "2024-03-01",
+    "endDate": "2024-03-02",
+    "format": "online",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "台東区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Tokyo/Spring",
+    "url": "https://event.ospn.jp/osc2024-spring/",
+    "startDate": "2024-03-10",
+    "endDate": "2024-03-10",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "名古屋市",
+    "prefecture": "愛知県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Nagoya",
+    "url": "https://event.ospn.jp/osc2024-nagoya/",
+    "startDate": "2024-05-25",
+    "endDate": "2024-05-25",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "札幌市",
+    "prefecture": "北海道",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Hokkaido",
+    "url": "https://event.ospn.jp/osc2024-do/",
+    "startDate": "2024-06-29",
+    "endDate": "2024-06-29",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
     "name": "Platform Engineering Kaigi 2024",
     "url": "https://www.cnia.io/pek2024/",
     "startDate": "2024-07-09",
@@ -15,6 +110,25 @@
     "connpass": null,
     "archiveUrl": "https://www.cnia.io/pek2024/sessions/",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "京都市",
+    "prefecture": "京都府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Kyoto",
+    "url": "https://event.ospn.jp/osc2024-kyoto/",
+    "startDate": "2024-07-27",
+    "endDate": "2024-07-27",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
   },
   {
     "name": "Google Cloud Next Tokyo '24",
@@ -36,5 +150,176 @@
     "connpass": null,
     "archiveUrl": "https://cloudonair.withgoogle.com/events/next-tokyo-24",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "港区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンデベロッパーズカンファレンス2024",
+    "url": "https://event.ospn.jp/odc2024/",
+    "startDate": "2024-09-07",
+    "endDate": "2024-09-07",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "広島市",
+    "prefecture": "広島県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Hiroshima",
+    "url": "https://event.ospn.jp/osc2024-hiroshima/",
+    "startDate": "2024-09-29",
+    "endDate": "2024-09-29",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/325425/",
+    "archiveUrl": null,
+    "city": "長岡市",
+    "prefecture": "新潟県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Nagaoka",
+    "url": "https://ospn.connpass.com/event/325425/",
+    "startDate": "2024-10-12",
+    "endDate": "2024-10-12",
+    "format": "hybrid",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": null,
+    "prefecture": null,
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Online/Fall",
+    "url": "https://event.ospn.jp/osc2024-online-fall/",
+    "startDate": "2024-10-18",
+    "endDate": "2024-10-19",
+    "format": "online",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "台東区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Tokyo/Fall",
+    "url": "https://event.ospn.jp/osc2024-fall/",
+    "startDate": "2024-10-26",
+    "endDate": "2024-10-26",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "松江市",
+    "prefecture": "島根県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Shimane",
+    "url": "https://event.ospn.jp/osc2024-shimane/",
+    "startDate": "2024-11-02",
+    "endDate": "2024-11-02",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/328859/",
+    "archiveUrl": null,
+    "city": "宇部市",
+    "prefecture": "山口県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Yamaguchi",
+    "url": "https://ospn.connpass.com/event/328859/",
+    "startDate": "2024-11-09",
+    "endDate": "2024-11-09",
+    "format": "hybrid",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "松山市",
+    "prefecture": "愛媛県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Ehime",
+    "url": "https://event.ospn.jp/osc2024-ehime/",
+    "startDate": "2024-11-16",
+    "endDate": "2024-11-16",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "福岡市",
+    "prefecture": "福岡県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2024 Fukuoka",
+    "url": "https://event.ospn.jp/osc2024-fukuoka/",
+    "startDate": "2024-12-07",
+    "endDate": "2024-12-07",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
   }
 ]

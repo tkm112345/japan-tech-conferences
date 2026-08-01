@@ -1,5 +1,24 @@
 [
   {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "大阪市",
+    "prefecture": "大阪府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Osaka",
+    "url": "https://event.ospn.jp/osc2025-osaka/",
+    "startDate": "2025-01-25",
+    "endDate": "2025-01-25",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
     "name": "SRE Kaigi 2025",
     "url": "https://2025.srekaigi.net/",
     "startDate": "2025-01-26",
@@ -21,6 +40,82 @@
     "language": "ja"
   },
   {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "世田谷区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Tokyo/Spring",
+    "url": "https://event.ospn.jp/osc2025-spring/",
+    "startDate": "2025-02-21",
+    "endDate": "2025-02-22",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/348509/",
+    "archiveUrl": null,
+    "city": "白浜町",
+    "prefecture": "和歌山県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Shirahama",
+    "url": "https://ospn.connpass.com/event/348509/",
+    "startDate": "2025-05-17",
+    "endDate": "2025-05-17",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "名古屋市",
+    "prefecture": "愛知県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Nagoya",
+    "url": "https://event.ospn.jp/osc2025-nagoya/",
+    "startDate": "2025-05-31",
+    "endDate": "2025-05-31",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "松江市",
+    "prefecture": "島根県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Shimane",
+    "url": "https://event.ospn.jp/osc2025-shimane/",
+    "startDate": "2025-06-21",
+    "endDate": "2025-06-21",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
     "name": "KubeCon + CloudNativeCon Japan 2025",
     "url": "https://events.linuxfoundation.org/archive/2025/kubecon-cloudnativecon-japan/",
     "startDate": "2025-06-16",
@@ -39,6 +134,44 @@
     "connpass": null,
     "archiveUrl": "https://kccncjpn2025.sched.com/",
     "language": "en"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "札幌市",
+    "prefecture": "北海道",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Hokkaido",
+    "url": "https://event.ospn.jp/osc2025-do/",
+    "startDate": "2025-07-05",
+    "endDate": "2025-07-05",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "京都市",
+    "prefecture": "京都府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Kyoto",
+    "url": "https://event.ospn.jp/osc2025-kyoto/",
+    "startDate": "2025-08-03",
+    "endDate": "2025-08-03",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
   },
   {
     "name": "Google Cloud Next Tokyo 25",
@@ -62,6 +195,25 @@
     "language": "ja"
   },
   {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "港区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンデベロッパーズカンファレンス2025",
+    "url": "https://event.ospn.jp/odc2025/",
+    "startDate": "2025-09-06",
+    "endDate": "2025-09-06",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
     "name": "Platform Engineering Kaigi 2025",
     "url": "https://www.cnia.io/pek2025/",
     "startDate": "2025-09-18",
@@ -83,6 +235,63 @@
     "language": "ja"
   },
   {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/364901/",
+    "archiveUrl": null,
+    "city": "長岡市",
+    "prefecture": "新潟県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Niigata",
+    "url": "https://ospn.connpass.com/event/364901/",
+    "startDate": "2025-10-04",
+    "endDate": "2025-10-04",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": null,
+    "prefecture": null,
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Online/Fall",
+    "url": "https://event.ospn.jp/osc2025-online-fall/",
+    "startDate": "2025-10-17",
+    "endDate": "2025-10-18",
+    "format": "online",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "台東区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Tokyo/Fall",
+    "url": "https://event.ospn.jp/osc2025-fall/",
+    "startDate": "2025-10-25",
+    "endDate": "2025-10-25",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
     "name": "アーキテクチャConference 2025",
     "url": "https://architecture-con.findy-tools.io/",
     "startDate": "2025-11-20",
@@ -101,5 +310,81 @@
     "connpass": "https://findy.connpass.com/event/366177/",
     "archiveUrl": "https://conference.findy-code.io/conferences/architecture-con-2025/7/archives?utm_content=archive-kv",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "福岡市",
+    "prefecture": "福岡県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Fukuoka",
+    "url": "https://event.ospn.jp/osc2025-fukuoka/",
+    "startDate": "2025-11-22",
+    "endDate": "2025-11-22",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/367968/",
+    "archiveUrl": null,
+    "city": "宇部市",
+    "prefecture": "山口県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Yamaguchi",
+    "url": "https://ospn.connpass.com/event/367968/",
+    "startDate": "2025-11-23",
+    "endDate": "2025-11-23",
+    "format": "hybrid",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": "https://ospn.connpass.com/event/369653/",
+    "archiveUrl": null,
+    "city": "那覇市",
+    "prefecture": "沖縄県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Okinawa",
+    "url": "https://ospn.connpass.com/event/369653/",
+    "startDate": "2025-11-29",
+    "endDate": "2025-11-29",
+    "format": "hybrid",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "広島市",
+    "prefecture": "広島県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2025 Hiroshima",
+    "url": "https://event.ospn.jp/osc2025-hiroshima/",
+    "startDate": "2025-12-13",
+    "endDate": "2025-12-13",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
   }
 ]

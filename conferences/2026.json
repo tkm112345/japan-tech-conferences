@@ -635,6 +635,25 @@
     ]
   },
   {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "京都市",
+    "prefecture": "京都府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2026 Kyoto",
+    "url": "https://event.ospn.jp/osc2026-kyoto/",
+    "startDate": "2026-08-01",
+    "endDate": "2026-08-01",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
+  },
+  {
     "name": "PyCon JP 2026",
     "url": "https://2026.pycon.jp/",
     "startDate": "2026-08-21",
@@ -651,6 +670,25 @@
     "twitter": "pyconjapan",
     "connpass": "https://pyconjp.connpass.com/event/391006/",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": "https://ospn.connpass.com/event/396808/",
+    "archiveUrl": null,
+    "city": "大田区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンデベロッパーズカンファレンス2026",
+    "url": "https://event.ospn.jp/odc2026/",
+    "startDate": "2026-08-29",
+    "endDate": "2026-08-29",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
   },
   {
     "cfpUrl": null,
@@ -691,6 +729,25 @@
       "infrastructure",
       "sre"
     ]
+  },
+  {
+    "name": "オープンソースカンファレンス2026 Hiroshima",
+    "url": "https://event.ospn.jp/osc2026-hiroshima/",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "city": "広島市",
+    "prefecture": "広島県",
+    "country": "Japan",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "language": "ja"
   },
   {
     "name": "技術的負債に向き合うConference 2026",
@@ -753,6 +810,46 @@
   {
     "cfpUrl": null,
     "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": null,
+    "prefecture": null,
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2026 Online/Fall",
+    "url": "https://event.ospn.jp/osc2026-online-fall/",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-03",
+    "format": "online",
+    "topics": [
+      "opensource"
+    ],
+    "cfpUrl": null,
+    "cfpEndDate": null
+  },
+  {
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "台東区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2026 Tokyo/Fall",
+    "url": "https://event.ospn.jp/osc2026-fall/",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ],
+    "cfpUrl": null,
+    "cfpEndDate": null
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
     "twitter": "tokyotestfest",
     "connpass": null,
     "archiveUrl": null,
@@ -789,5 +886,24 @@
     "twitter": "cloudnativedays",
     "connpass": "https://cloudnativedays.connpass.com/",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "OSC_official",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "福岡市",
+    "prefecture": "福岡県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "オープンソースカンファレンス2026 Fukuoka",
+    "url": "https://event.ospn.jp/osc2026-fukuoka/",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "format": "onsite",
+    "topics": [
+      "opensource"
+    ]
   }
 ]
