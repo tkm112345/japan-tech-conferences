@@ -8,11 +8,53 @@
     "prefecture": null,
     "country": "Japan",
     "format": "onsite",
-    "topics": ["sre", "observability", "devops"],
+    "topics": [
+      "sre",
+      "observability",
+      "devops"
+    ],
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": null,
     "connpass": null,
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "tryswiftconf",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "立川市",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "try! Swift Tokyo 2027",
+    "url": "https://tryswift.jp/2027/en/",
+    "startDate": "2027-03-02",
+    "endDate": "2027-03-04",
+    "format": "onsite",
+    "topics": [
+      "mobile"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "rubykaigi",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "宮崎市",
+    "prefecture": "宮崎県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "RubyKaigi 2027",
+    "url": "https://rubykaigi.org/2027/",
+    "startDate": "2027-04-14",
+    "endDate": "2027-04-16",
+    "format": "hybrid",
+    "topics": [
+      "ruby"
+    ]
   }
 ]

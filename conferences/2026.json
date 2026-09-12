@@ -122,6 +122,25 @@
   {
     "cfpUrl": null,
     "cfpEndDate": null,
+    "twitter": "devsumi",
+    "connpass": "https://devsumi.connpass.com/",
+    "archiveUrl": null,
+    "city": "江東区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Developers Summit 2026",
+    "url": "https://event.shoeisha.jp/devsumi/20260218",
+    "startDate": "2026-02-18",
+    "endDate": "2026-02-20",
+    "format": "hybrid",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
     "twitter": "OSC_official",
     "connpass": "https://ospn.connpass.com/event/379643/",
     "archiveUrl": "https://www.youtube.com/c/OSPNjp",
@@ -220,6 +239,25 @@
   },
   {
     "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "phperkaigi",
+    "connpass": "https://phperkaigi.connpass.com/",
+    "archiveUrl": null,
+    "city": "中野区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "PHPerKaigi 2026",
+    "url": "https://phperkaigi.jp/2026/",
+    "startDate": "2026-03-20",
+    "endDate": "2026-03-22",
+    "format": "hybrid",
+    "topics": [
+      "php"
+    ]
+  },
+  {
+    "cfpUrl": null,
     "cfpEndDate": "2026-03-01",
     "twitter": "DevOpsDaysTYO",
     "connpass": null,
@@ -258,6 +296,25 @@
     "topics": [
       "opensource",
       "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "rubykaigi",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "函館市",
+    "prefecture": "北海道",
+    "country": "Japan",
+    "language": "ja",
+    "name": "RubyKaigi 2026",
+    "url": "https://rubykaigi.org/2026/",
+    "startDate": "2026-04-22",
+    "endDate": "2026-04-24",
+    "format": "hybrid",
+    "topics": [
+      "ruby"
     ]
   },
   {
@@ -319,6 +376,27 @@
       "kubernetes",
       "platform-engineering",
       "sre"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": "https://typescript-jpc.connpass.com/",
+    "archiveUrl": null,
+    "city": "大田区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "TSKaigi 2026",
+    "url": "https://2026.tskaigi.org/",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-23",
+    "format": "hybrid",
+    "topics": [
+      "typescript",
+      "javascript",
+      "web"
     ]
   },
   {
@@ -654,6 +732,25 @@
     ]
   },
   {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "devsumi",
+    "connpass": "https://devsumi.connpass.com/",
+    "archiveUrl": null,
+    "city": "大阪市",
+    "prefecture": "大阪府",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Developers Summit 2026 KANSAI",
+    "url": "https://event.shoeisha.jp/devsumi/20260821",
+    "startDate": "2026-08-21",
+    "endDate": "2026-08-21",
+    "format": "hybrid",
+    "topics": [
+      "general"
+    ]
+  },
+  {
     "name": "PyCon JP 2026",
     "url": "https://2026.pycon.jp/",
     "startDate": "2026-08-21",
@@ -688,6 +785,25 @@
     "format": "onsite",
     "topics": [
       "opensource"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "DroidKaigi",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "渋谷区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "DroidKaigi 2026",
+    "url": "https://2026.droidkaigi.jp/",
+    "startDate": "2026-09-01",
+    "endDate": "2026-09-03",
+    "format": "onsite",
+    "topics": [
+      "mobile"
     ]
   },
   {
@@ -728,6 +844,63 @@
       "cloud",
       "infrastructure",
       "sre"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "devsumi",
+    "connpass": "https://devsumi.connpass.com/",
+    "archiveUrl": null,
+    "city": "福岡市",
+    "prefecture": "福岡県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Developers Summit 2026 FUKUOKA",
+    "url": "https://event.shoeisha.jp/devsumi/20260911/",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-11",
+    "format": "hybrid",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": "https://gocon.connpass.com/",
+    "archiveUrl": null,
+    "city": "中野区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Go Conference 2026",
+    "url": "https://gocon.jp/2026/",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-11",
+    "format": "hybrid",
+    "topics": [
+      "go"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "iosdcjp",
+    "connpass": "https://iosdc.connpass.com/",
+    "archiveUrl": null,
+    "city": "江東区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "iOSDC Japan 2026",
+    "url": "https://iosdc.jp/2026/",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-13",
+    "format": "hybrid",
+    "topics": [
+      "mobile"
     ]
   },
   {
@@ -788,6 +961,45 @@
     ]
   },
   {
+    "cfpUrl": "https://fortee.jp/csharpkaigi-2026/speaker/proposal/cfp",
+    "cfpEndDate": "2026-07-05",
+    "twitter": "csharpkaigi",
+    "connpass": "https://csharpkaigi.connpass.com/",
+    "archiveUrl": null,
+    "city": "江東区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "C# Kaigi 2026",
+    "url": "https://csharpkaigi.net/",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "format": "onsite",
+    "topics": [
+      "dotnet"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": "https://serverless.connpass.com/",
+    "archiveUrl": null,
+    "city": "新宿区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "ServerlessDays Tokyo 2026",
+    "url": "https://tokyo.serverlessdays.io/",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20",
+    "format": "onsite",
+    "topics": [
+      "cloud",
+      "devops"
+    ]
+  },
+  {
     "name": "Platform Engineering Kaigi 2026",
     "url": "https://www.cnia.io/pek2026/",
     "startDate": "2026-09-26",
@@ -824,9 +1036,47 @@
     "format": "online",
     "topics": [
       "opensource"
-    ],
+    ]
+  },
+  {
     "cfpUrl": null,
-    "cfpEndDate": null
+    "cfpEndDate": null,
+    "twitter": "Designship_jp",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "港区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Designship 2026",
+    "url": "https://design-ship.jp/2026/",
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-11",
+    "format": "onsite",
+    "topics": [
+      "design",
+      "ux"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "kaigionrails",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "渋谷区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Kaigi on Rails 2026",
+    "url": "https://kaigionrails.org/2026/",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-17",
+    "format": "hybrid",
+    "topics": [
+      "ruby",
+      "web"
+    ]
   },
   {
     "twitter": "OSC_official",
@@ -850,6 +1100,65 @@
   {
     "cfpUrl": null,
     "cfpEndDate": null,
+    "twitter": "vuefes",
+    "connpass": "https://vuejs-meetup.connpass.com/",
+    "archiveUrl": null,
+    "city": "千代田区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Vue Fes Japan 2026",
+    "url": "https://vuefes.jp/2026/",
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "format": "onsite",
+    "topics": [
+      "javascript",
+      "frontend",
+      "web"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "FlutterKaigi",
+    "connpass": "https://flutterkaigi.connpass.com/",
+    "archiveUrl": null,
+    "city": "港区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "FlutterKaigi 2026",
+    "url": "https://2026.flutterkaigi.jp/",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-30",
+    "format": "onsite",
+    "topics": [
+      "mobile"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "db tech showcase 2026",
+    "url": "https://www.db-tech-showcase.com/",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-06",
+    "format": "onsite",
+    "topics": [
+      "database"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
     "twitter": "tokyotestfest",
     "connpass": null,
     "archiveUrl": null,
@@ -864,6 +1173,45 @@
     "format": "onsite",
     "topics": [
       "testing"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "kotlin_fest",
+    "connpass": "https://kotlin.connpass.com/",
+    "archiveUrl": null,
+    "city": "品川区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Kotlin Fest 2026",
+    "url": "https://2026.kotlinfest.dev/",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "format": "onsite",
+    "topics": [
+      "java",
+      "mobile"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "codeblue_jp",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "CODE BLUE 2026",
+    "url": "https://codeblue.jp/",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-18",
+    "format": "onsite",
+    "topics": [
+      "security"
     ]
   },
   {
@@ -886,6 +1234,121 @@
     "twitter": "cloudnativedays",
     "connpass": "https://cloudnativedays.connpass.com/",
     "language": "ja"
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "jsconfjp",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "千代田区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "JSConf JP 2026",
+    "url": "https://jsconf.jp/2026",
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "format": "onsite",
+    "topics": [
+      "javascript"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "findy_tools",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "アーキテクチャConference 2026",
+    "url": "https://architecture-con.findy-tools.io/2026",
+    "startDate": "2026-11-26",
+    "endDate": "2026-11-27",
+    "format": "hybrid",
+    "topics": [
+      "design",
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "中央区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "PostgreSQL Conference Japan 2026",
+    "url": "https://www.postgresql.jp/jpug-pgcon2026",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-27",
+    "format": "onsite",
+    "topics": [
+      "database"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "江東区",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "YAPC::Tokyo 2026",
+    "url": "https://yapcjapan.org/2026tokyo/",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-29",
+    "format": "onsite",
+    "topics": [
+      "general"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "RubyWorldConf",
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "松江市",
+    "prefecture": "島根県",
+    "country": "Japan",
+    "language": "ja",
+    "name": "RubyWorld Conference 2026",
+    "url": "https://2026.rubyworld-conf.org/ja/",
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-04",
+    "format": "onsite",
+    "topics": [
+      "ruby"
+    ]
+  },
+  {
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": null,
+    "connpass": null,
+    "archiveUrl": null,
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "language": "ja",
+    "name": "Open Source Summit Japan 2026",
+    "url": "https://events.linuxfoundation.org/open-source-summit-japan/",
+    "startDate": "2026-12-07",
+    "endDate": "2026-12-09",
+    "format": "hybrid",
+    "topics": [
+      "opensource"
+    ]
   },
   {
     "cfpUrl": null,
