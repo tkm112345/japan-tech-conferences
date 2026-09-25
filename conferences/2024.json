@@ -304,6 +304,26 @@
     ]
   },
   {
+    "name": "アーキテクチャConference 2024",
+    "url": "https://architecture-con.findy-tools.io/2024",
+    "startDate": "2024-11-26",
+    "endDate": "2024-11-26",
+    "city": "東京",
+    "prefecture": "東京都",
+    "country": "Japan",
+    "format": "hybrid",
+    "topics": [
+      "design",
+      "general"
+    ],
+    "cfpUrl": null,
+    "cfpEndDate": null,
+    "twitter": "findy_tools",
+    "connpass": null,
+    "archiveUrl": "https://findy-tools.io/events/archives/architecture-con-2024/1",
+    "language": "ja"
+  },
+  {
     "cfpUrl": null,
     "cfpEndDate": null,
     "twitter": "OSC_official",
