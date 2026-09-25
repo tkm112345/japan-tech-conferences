@@ -44,8 +44,9 @@ confs.tech は欧米のカンファレンスが中心で、日本国内のイベ
 
 ```
 cloud, kubernetes, platform-engineering, sre, devops, security, networking,
-observability, infrastructure, ai, backend, python, javascript, dotnet,
-testing, agile, design, opensource, general
+observability, database, infrastructure, ai, web, frontend, backend, mobile,
+python, ruby, go, java, javascript, typescript, php, dotnet, testing, agile,
+design, ux, opensource, general
 ```
 
 新しいトピックが必要なら、Issue で提案してください（`schema.json` に追加します）。
